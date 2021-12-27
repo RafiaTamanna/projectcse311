@@ -5,17 +5,17 @@ body{
   margin: 0%;
 }
 #maindiv{
-   margin-left: 50px;
-    margin-right: 50px;
-    margin-top: 50px;
+  margin-top: 50px;
+  
 }
 #topPanel{
-    box-shadow: 0 0 12px 4px;
   color: #520909;
-  margin-top: 20px;
   margin-bottom: 20px;
   background-color: white;
- 
+  height: 120px;
+  position: relative;
+  top: -50px;
+  width: 100%;
 }
 #logo{
   margin-left: 30px;
